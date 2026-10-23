@@ -1,0 +1,35 @@
+title = "Mascot"
+description = "Twilight in the bottom-right corner."
+glyph = "★"
+order = 60
+
+[[options]]
+key = "enabled"
+title = "Twilight"
+description = "Show her at all."
+type = "toggle"
+
+[[options]]
+key = "music"
+title = "Music"
+description = "Comment on new tracks and dance while something plays."
+type = "toggle"
+
+[[options]]
+key = "sleep"
+title = "Night reading"
+description = "Settle down with her books between 1 and 6 at night."
+type = "toggle"
+
+[[options]]
+key = "chatter"
+title = "Chatter"
+description = "How often she says something on her own."
+type = "choice"
+choices = [{ value = 0, label = "never" }, { value = 5, label = "5 min" }, { value = 15, label = "15 min" }, { value = 30, label = "30 min" }]
+
+[[options]]
+key = "sprites"
+title = "Sprites"
+description = "The folder with her pictures, see scripts/get-sprites.sh."
+type = "text"
