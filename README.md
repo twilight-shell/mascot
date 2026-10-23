@@ -1,5 +1,7 @@
 # twilight-shell/mascot
 
+[![ci](https://github.com/twilight-shell/mascot/actions/workflows/ci.yml/badge.svg)](https://github.com/twilight-shell/mascot/actions/workflows/ci.yml)
+
 The mascot of the [twilight-shell](https://github.com/twilight-shell)
 organization: Twilight lives in the bottom-right corner of the screen. She
 breathes, strolls along the bottom edge, talks in a bubble (greetings, the hour,
@@ -97,6 +99,10 @@ the script writes a `CREDITS.txt` with the same attribution next to the sprites.
 
 My Little Pony: Friendship is Magic is © Hasbro. This project isn't affiliated
 with or endorsed by Hasbro or Desktop Ponies.
+
+## Contributing
+
+Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md). Agents and the like: [AGENTS.md](AGENTS.md).
 
 ## License
 
