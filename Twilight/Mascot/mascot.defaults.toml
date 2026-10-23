@@ -1,0 +1,16 @@
+# Show the mascot at all.
+enabled = true
+
+# Where her sprites are: idle.gif, talk.gif, happy.gif, dance.gif, sleep.gif,
+# walk.gif and drag.gif (or .png). Without an idle sprite she doesn't show up.
+# scripts/get-sprites.sh downloads a set.
+sprites = "~/.local/share/twilight-shell/mascot"
+
+# Dance to music that plays, and say what it is.
+music = true
+
+# Doze off late at night when nothing is going on.
+sleep = true
+
+# Minutes between unprompted remarks; 0 keeps her quiet.
+chatter = 0
